@@ -22,7 +22,7 @@ int main(){
 
     fclose(fp);
 
-    printf("                ☭ Working men of all countries, unite! ☭ \n\n\n\n\n"); 
+    printf("                                          ☭ Working men of all countries, unite! ☭ \n\n\n\n\n"); 
   }
 
   else if(strcmp(answer, "no") == 0){
